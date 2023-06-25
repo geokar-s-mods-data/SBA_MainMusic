@@ -1,0 +1,48 @@
+Track name        - Description
+
+
+overworld         - Arcade music, Backrooms noise
+
+theme             - Credits music
+
+Hive:
+river             - River
+factory           - Factory
+backyard          - Backyard
+boss phase 1      - Boss - phase 1
+boss phase 2      - Boss - phase 2
+boss phase 3 - 1  - Boss - phase 3.1
+boss phase 3 - 2  - boss - phase 3.2
+boss outro        - Boss - outro
+boss waiting 1    - Boss - waiting 1
+boss waiting 2    - Boss - waiting 2
+boss attack 1     - Boss - attack 1
+boss attack 2     - Boss - attack 2
+birds ambiance    - Boss - ambiance
+
+hub               - Hub music
+noise             - Hub noise
+
+scene 1           - Intro scene 1
+scene 2           - Intro scene 2
+scene 3           - Intro scene 3
+scene 4           - Intro scene 4
+
+turtletown        - Turtletown music
+boss              - Turtletown boss music
+
+snow valley       - Snow valley music
+boss              - Snow valley boss music
+
+desert            - Beemothep Desert music
+underground       - Beemothep Desert underground music
+boss              - Beemothep Desert boss music
+
+house             - Giant House music
+8bit              - Giant House 8-bit music
+sewers            - Giant House sewers music
+boss              - Giant House boss music
+
+intro             - Main menu music
+
+imabear           - IMABEAR glasses music
